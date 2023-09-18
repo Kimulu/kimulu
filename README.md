@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **"I've written code that's traveled further than I have! Some of my projects are running on servers in different continents. ✈️🌍 "**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/michael_kimulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michael_kimulu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-kimulu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-kimulu/" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 
 
- <p>
+ <p align="center">
     <a href="https://www.codewars.com/users/Michael_Kimulu">
       <img src="https://github.r2v.ch/codewars?user=Michael_Kimulu&top_languages=true&theme=midnight_blue" height="400" alt="codewar stats" />
     </a>
