@@ -29,4 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimulu&" alt="kimulu" /></p>
 
-<a href="https://www.codewars.com/users/Michael_Kimulu/badges/large"></a>
+ <p>
+    <a href="https://www.codewars.com/users/Michael_Kimulu">
+      <img src="https://github.r2v.ch/codewars?user=Michael_Kimulu&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
+    </a>
+  </p>
