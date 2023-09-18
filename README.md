@@ -1,4 +1,5 @@
-<h1> Hello there! I'm Michael Kimulu.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Hey%2C+I'm+Michael+Welcome+to+my+Profile!" alt="Typing SVG" />
+</a>
 <h3 align="center">A passionate Web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" >
 
