@@ -14,7 +14,9 @@
 - 💬 Ask me about **Python, Flask Framework**
 
 - ⚡ Fun fact **"I've written code that's traveled further than I have! Some of my projects are running on servers in different continents. ✈️🌍 "**
-
+<br>
+<br>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/michael_kimulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michael_kimulu" height="30" width="40" /></a>
