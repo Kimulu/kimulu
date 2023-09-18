@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX Africa**
 
-- 👯 I’m looking to collaborate on **Selenium Bot Creation**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Python, Flask Framework**
 
