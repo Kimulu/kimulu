@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=2800&pause=2000&center=true&vCenter=true&width=920&lines=Hey%2C+I'm+Michael+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate Web developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" >
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <a href="https://twitter.com/michael_kimulu" target="blank"><img src="https://img.shields.io/twitter/follow/michael_kimulu?logo=twitter&style=for-the-badge" alt="michael_kimulu" /></a> </p>
 
