@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michael_kimulu" target="blank"><img src="https://img.shields.io/twitter/follow/michael_kimulu?logo=twitter&style=for-the-badge" alt="michael_kimulu" /></a> </p>
 
-- 🔭 I’m currently working on **a React Project**
+- 🔭 I’m currently working on **a Flask Project**
 
 - 🌱 I’m currently learning **Software Engineering at ALX Africa**
 
