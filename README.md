@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
-<p align="left"> <a href="https://x.com/bolasie__flick" target="blank"><img src="https://img.shields.io/twitter/follow/michael_kimulu?logo=twitter&style=for-the-badge" alt="michael_kimulu" /></a> </p>
+<p align="left"> <a href="https://x.com/Kimulu__Michael" target="blank"><img src="https://img.shields.io/twitter/follow/michael_kimulu?logo=twitter&style=for-the-badge" alt="michael_kimulu" /></a> </p>
 
 - 🔭 I’m currently working on **a React Project**
 
