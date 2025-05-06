@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a React Project**
 
-- 🌱 I’m currently learning **Data Science at ALX Africa**
+- 🌱 I’m currently learning **FrontEnd Development at ALX Africa**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
